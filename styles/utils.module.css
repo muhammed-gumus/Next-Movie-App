@@ -1,0 +1,1518 @@
+/***************************/
+/* Main page styles */
+/***************************/
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.navbarDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+
+  width: 650px;
+  height: 75px;
+  border-radius: 40px;
+  background-color: rgb(0, 0, 0);
+}
+
+.logoDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.tittlePage {
+  display: flex;
+  padding-bottom: 2rem;
+  color: rgb(0, 0, 0);
+  font-size: 32px;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-weight: 900;
+}
+
+.bestMovie {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-weight: 400;
+}
+
+.bestMovie:hover {
+  opacity: 0.6;
+}
+
+.categoryDiv {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.searchDiv {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 0.6rem;
+  padding-top: 40px;
+}
+
+.searchInput {
+  width: 600px;
+  border-radius: 10px;
+  border: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+.searchButton {
+  border: none;
+  width: 70px;
+  height: 40px;
+  background-color: #fe8c00;
+  border-radius: 10px;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.searchButton:hover {
+  box-shadow: 8px 8px #ffad48;
+  transition: 0.3s;
+}
+
+.whoWeAreDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 20px;
+  gap: 3rem;
+}
+
+.whoWeAreP {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  flex-direction: column;
+  font-size: 18px;
+  text-align: center;
+  gap: 1rem;
+}
+
+.gifContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  height: 200px;
+  padding-bottom: 150px;
+  padding-top: 150px;
+}
+
+.gif {
+  border-radius: 10px;
+  padding: 10px 10px 0px 10px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.footerItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 10px;
+  height: 33px;
+}
+
+.footerLink {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footerDiv {
+  display: flex;
+  flex-direction: row;
+  gap: 2.2rem;
+  justify-content: center;
+  align-items: center;
+  width: 650px;
+  height: 50px;
+  border-radius: 40px;
+  background-color: rgb(0, 0, 0);
+}
+
+@media screen and (max-width: 1920px) {
+  .navbar {
+    padding: 80px;
+  }
+  .navbarDiv {
+    width: 1100px;
+    height: 110px;
+  }
+
+  .logoDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tittlePage {
+    display: flex;
+    padding-bottom: 2rem;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 900;
+  }
+
+  .bestMovie {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+  }
+
+  .bestMovie:hover {
+    opacity: 0.6;
+  }
+
+  .categoryDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .searchDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1.2rem;
+    padding-top: 45px;
+    font-size: 22px;
+  }
+
+  .searchInput {
+    width: 850px;
+    height: 44px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .searchButton {
+    border: none;
+    width: 100px;
+    height: 40px;
+    background-color: #fe8c00;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.3s;
+  }
+
+  .searchButton:hover {
+    box-shadow: 8px 8px #ffad48;
+    transition: 0.3s;
+  }
+
+  .whoWeAreDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+    gap: 3rem;
+  }
+
+  .whoWeAreP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    font-size: 28px;
+    text-align: center;
+    gap: 2rem;
+  }
+
+  .gifContainer {
+    width: 800px;
+    height: 200px;
+    padding-bottom: 150px;
+    padding-top: 150px;
+  }
+
+  .gif {
+    border-radius: 10px;
+    padding: 10px 10px 0px 10px;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+  }
+
+  .footerItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 33px;
+  }
+
+  .footerLink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footerDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 2.2rem;
+    justify-content: center;
+    align-items: center;
+    width: 650px;
+    height: 55px;
+    border-radius: 40px;
+    background-color: rgb(0, 0, 0);
+  }
+}
+
+@media screen and (max-width: 1270px) {
+  .navbar {
+    padding: 35px;
+  }
+  .navbarDiv {
+    width: 950px;
+    height: 100px;
+  }
+
+  .logoDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tittlePage {
+    display: flex;
+    padding-bottom: 2rem;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 900;
+  }
+
+  .bestMovie {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+  }
+
+  .bestMovie:hover {
+    opacity: 0.6;
+  }
+
+  .categoryDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .searchDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1.2rem;
+    padding-top: 40px;
+    font-size: 20px;
+  }
+
+  .searchInput {
+    width: 800px;
+    height: 44px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .searchButton {
+    border: none;
+    width: 90px;
+    height: 40px;
+    background-color: #fe8c00;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.3s;
+  }
+
+  .searchButton:hover {
+    box-shadow: 8px 8px #ffad48;
+    transition: 0.3s;
+  }
+
+  .whoWeAreDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 40px;
+    gap: 3rem;
+  }
+
+  .whoWeAreP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    font-size: 26px;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .gifContainer {
+    width: 750px;
+    height: 200px;
+    padding-bottom: 150px;
+    padding-top: 120px;
+  }
+
+  .gif {
+    border-radius: 10px;
+    padding: 10px 10px 0px 10px;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 35px;
+    padding-bottom: 30px;
+  }
+
+  .footerItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 33px;
+  }
+
+  .footerLink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footerDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 2.2rem;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: rgb(0, 0, 0);
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .navbar {
+    padding: 30px;
+  }
+  .navbarDiv {
+    width: 800px;
+    height: 95px;
+  }
+
+  .logoDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tittlePage {
+    display: flex;
+    padding-bottom: 2rem;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 900;
+  }
+
+  .bestMovie {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+  }
+
+  .bestMovie:hover {
+    opacity: 0.6;
+  }
+
+  .categoryDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .searchDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1.2rem;
+    padding-top: 45px;
+    font-size: 18px;
+  }
+
+  .searchInput {
+    width: 650px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .searchButton {
+    border: none;
+    width: 85px;
+    height: 40px;
+    background-color: #fe8c00;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.3s;
+  }
+
+  .searchButton:hover {
+    box-shadow: 8px 8px #ffad48;
+    transition: 0.3s;
+  }
+
+  .whoWeAreDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 15px;
+    gap: 3rem;
+  }
+
+  .whoWeAreP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    font-size: 24px;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .gif {
+    border-radius: 10px;
+    padding: 10px 10px 0px 10px;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .footerItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 33px;
+  }
+
+  .footerLink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footerDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 2.2rem;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: rgb(0, 0, 0);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    padding: 30px;
+  }
+  .navbarDiv {
+    width: 700px;
+    height: 90px;
+  }
+
+  .logoDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tittlePage {
+    display: flex;
+    padding-bottom: 2rem;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 900;
+  }
+
+  .bestMovie {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+  }
+
+  .bestMovie:hover {
+    opacity: 0.6;
+  }
+
+  .categoryDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .searchDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1.2rem;
+    padding-top: 40px;
+    font-size: 16px;
+  }
+
+  .searchInput {
+    width: 550px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .searchButton {
+    border: none;
+    width: 80px;
+    height: 40px;
+    background-color: #fe8c00;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.3s;
+  }
+
+  .searchButton:hover {
+    box-shadow: 8px 8px #ffad48;
+    transition: 0.3s;
+  }
+
+  .whoWeAreDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 3rem;
+  }
+
+  .whoWeAreP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    font-size: 22px;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .gif {
+    border-radius: 10px;
+    padding: 10px 10px 0px 10px;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 20px;
+  }
+
+  .footerItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 33px;
+  }
+
+  .footerLink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footerDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 2.2rem;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: rgb(0, 0, 0);
+  }
+}
+
+@media screen and (max-width: 572px) {
+  .navbar {
+    padding: 30px;
+  }
+  .navbarDiv {
+    width: 700px;
+    height: 80px;
+  }
+
+  .logoDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tittlePage {
+    display: flex;
+    padding-bottom: 2rem;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-weight: 900;
+  }
+
+  .bestMovie {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+  }
+
+  .bestMovie:hover {
+    opacity: 0.6;
+  }
+
+  .categoryDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .searchDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1.2rem;
+    padding-top: 40px;
+    font-size: 14px;
+  }
+
+  .searchInput {
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .searchButton {
+    border: none;
+    width: 75px;
+    height: 40px;
+    background-color: #fe8c00;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.3s;
+  }
+
+  .searchButton:hover {
+    box-shadow: 8px 8px #ffad48;
+    transition: 0.3s;
+  }
+
+  .whoWeAreDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 3rem;
+  }
+
+  .whoWeAreP {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: center;
+    gap: 1rem;
+  }
+
+  .gif {
+    border-radius: 10px;
+    padding: 10px 10px 0px 10px;
+  }
+
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .footerItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 33px;
+  }
+
+  .footerLink {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footerDiv {
+    display: flex;
+    flex-direction: row;
+    gap: 2.2rem;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: rgb(0, 0, 0);
+  }
+}
+
+/***************************/
+/* Movies page styles */
+/***************************/
+
+.movies {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  padding: 30px;
+}
+
+.movie {
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  cursor: pointer;
+}
+
+.movie:hover {
+  transition: 0.8s;
+  -ms-transform: scale(1.07); /* IE 9 */
+  -webkit-transform: scale(1.07); /* Safari 3-8 */
+  transform: scale(1.07);
+}
+
+.movieName {
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+
+@media screen and (max-width: 1920px) {
+  .movies {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 25px;
+  }
+
+  .movie {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+  }
+
+  .movie:hover {
+    transition: 0.8s;
+    -ms-transform: scale(1.07); /* IE 9 */
+    -webkit-transform: scale(1.07); /* Safari 3-8 */
+    transform: scale(1.07);
+  }
+
+  .movieName {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+}
+
+@media screen and (max-width: 1270px) {
+  .movies {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 20px;
+  }
+
+  .movie {
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+  }
+
+  .movie:hover {
+    transition: 0.8s;
+    -ms-transform: scale(1.07); /* IE 9 */
+    -webkit-transform: scale(1.07); /* Safari 3-8 */
+    transform: scale(1.07);
+  }
+
+  .movieName {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .movies {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 15px;
+  }
+
+  .movie {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+  }
+
+  .movie:hover {
+    transition: 0.8s;
+    -ms-transform: scale(1.07); /* IE 9 */
+    -webkit-transform: scale(1.07); /* Safari 3-8 */
+    transform: scale(1.07);
+  }
+
+  .movieName {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .movies {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 15px;
+  }
+
+  .movie {
+    padding: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+  }
+
+  .movie:hover {
+    transition: 0.8s;
+    -ms-transform: scale(1.07); /* IE 9 */
+    -webkit-transform: scale(1.07); /* Safari 3-8 */
+    transform: scale(1.07);
+  }
+
+  .movieName {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+}
+
+@media screen and (max-width: 572px) {
+  .movies {
+    display: grid;
+    grid-template-columns: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .movie {
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+  }
+
+  .movie:hover {
+    transition: 0.8s;
+    -ms-transform: scale(1.07); /* IE 9 */
+    -webkit-transform: scale(1.07); /* Safari 3-8 */
+    transform: scale(1.07);
+  }
+
+  .movieName {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+}
+
+/***************************/
+/* Movie detail page styles */
+/***************************/
+
+.mov {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.movieDesc {
+  display: flex;
+  color: #fff;
+  font-weight: 500;
+}
+
+.movieTittle {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+
+.moviePage {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 2rem;
+}
+
+.movieDetail1 {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: flex-start;
+  width: auto;
+  padding-right: 2rem;
+}
+
+.movieDetail2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+}
+
+.movieDetailDiv {
+  display: flex;
+  flex-direction: row;
+  border-radius: 5px;
+  background-color: black;
+  opacity: 0.8;
+  width: 750px;
+  height: auto;
+  padding: 1rem;
+}
+
+.movieTittleandTrailer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 2rem;
+  gap: 5rem;
+}
+
+.movieSum {
+  width: 550px;
+  height: auto;
+  background-color: black;
+  color: #fff;
+  opacity: 0.9;
+  border-radius: 5px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+@media screen and (max-width: 1920px) {
+  .movieTittleandTrailer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+    gap: 4rem;
+  }
+
+  .movieSum {
+    width: 550px;
+    height: auto;
+    background-color: black;
+    color: #fff;
+    opacity: 0.9;
+    border-radius: 5px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+
+  .movieDesc {
+    display: flex;
+    color: #fff;
+    font-weight: 500;
+  }
+
+  .moviePage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 2rem;
+  }
+
+  .movieDetailDiv {
+    display: flex;
+    flex-direction: row;
+    border-radius: 5px;
+    background-color: black;
+    opacity: 0.8;
+    width: 750px;
+    height: auto;
+    padding: 1rem;
+    font-size: 16px;
+  }
+
+  .movieDetail1 {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: flex-start;
+    width: auto;
+    padding-right: 1rem;
+  }
+
+  .movieDetail2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+  }
+
+  
+}
+
+@media screen and (max-width: 1270px) {
+    .movieTittleandTrailer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 1rem;
+        gap: 3rem;
+      }
+    
+      .movieSum {
+        width: 550px;
+        height: auto;
+        background-color: black;
+        color: #fff;
+        opacity: 0.9;
+        border-radius: 5px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+        font-size: 15px;
+      }
+    
+    
+      .movieDesc {
+        display: flex;
+        color: #fff;
+        font-weight: 500;
+      }
+    
+      .moviePage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        padding-left: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+      }
+    
+      .movieDetailDiv {
+        display: flex;
+        flex-direction: row;
+        border-radius: 5px;
+        background-color: black;
+        opacity: 0.8;
+        width: 650px;
+        height: auto;
+        padding: 0.8rem;
+        font-size: 14px;
+      }
+    
+      .movieDetail1 {
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        justify-content: flex-start;
+        width: auto;
+
+      }
+    
+      .movieDetail2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: left;
+      }
+    
+}
+
+@media screen and (max-width: 980px) {
+    .movieTittleandTrailer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: .7rem;
+        gap: 1rem;
+      }
+    
+      .movieSum {
+        width: 550px;
+        height: auto;
+        background-color: black;
+        color: #fff;
+        opacity: 0.9;
+        border-radius: 5px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+        font-size: 14px;
+      }
+    
+    
+      .movieDesc {
+        display: flex;
+        color: #fff;
+        font-weight: 500;
+      }
+    
+      .moviePage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        padding-left: .7rem;
+        padding-top: .7rem;
+        padding-bottom: .7rem;
+      }
+    
+      .movieDetailDiv {
+        display: flex;
+        flex-direction: row;
+        border-radius: 5px;
+        background-color: black;
+        opacity: 0.8;
+        width: 650px;
+        height: auto;
+        padding: 0.7rem;
+        font-size: 12px;
+      }
+    
+      .movieDetail1 {
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        justify-content: flex-start;
+        height: auto;
+
+      }
+    
+      .movieDetail2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: left;
+        height: auto;
+      }
+}
+
+@media screen and (max-width: 768px) {
+    .movieTittleandTrailer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: .7rem;
+        gap: 1rem;
+      }
+    
+      .movieSum {
+        width: 550px;
+        height: auto;
+        background-color: black;
+        color: #fff;
+        opacity: 0.9;
+        border-radius: 5px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 1rem;
+        font-size: 14px;
+      }
+    
+    
+      .movieDesc {
+        display: flex;
+        color: #fff;
+        font-weight: 500;
+      }
+    
+      .moviePage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        padding-left: .7rem;
+        padding-top: .7rem;
+        padding-bottom: .7rem;
+      }
+    
+      .movieDetailDiv {
+        display: flex;
+        flex-direction: row;
+        border-radius: 5px;
+        background-color: black;
+        opacity: 0.8;
+        width: 650px;
+        height: auto;
+        padding-left: 0.6rem;
+        padding-right: 0.6rem;
+        font-size: 10px;
+      }
+    
+      .movieDetail1 {
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        justify-content: flex-start;
+        height: auto;
+
+      }
+    
+      .movieDetail2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: left;
+        height: auto;
+      }
+}
+
+@media screen and (max-width: 572px) {
+    .movieTittleandTrailer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 1rem;
+        gap: 1rem;
+      }
+    
+      .movieSum {
+        width: 550px;
+        height: auto;
+        background-color: black;
+        color: #fff;
+        opacity: 0.9;
+        border-radius: 5px;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 01rem;
+      }
+    
+    
+      .movieDesc {
+        display: flex;
+        color: #fff;
+        font-weight: 500;
+      }
+    
+      .moviePage {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+        padding: 1rem, 1rem, 1rem, 0rem;
+        gap: .5rem;
+      }
+    
+      .movieDetailDiv {
+        display: flex;
+        flex-direction: row;
+        border-radius: 5px;
+        background-color: black;
+        opacity: 0.8;
+        width: 750px;
+        height: auto;
+        padding-left: 0.6rem;
+        padding-right: 0.6rem;
+        font-size: 10px;
+      }
+    
+      .movieDetail1 {
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        justify-content: flex-start;
+        width: auto;
+        padding-right: 1rem;
+      }
+    
+      .movieDetail2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        text-align: left;
+      }
+    
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "name": "SHAWSHANK REDEMPTION",
+    "image": "/images/shawshank.jpg",
+    "id": 1,
+    "slug": "posts/shawshank",
+    "country": "United States",
+    "genre": "Drama, Crime",
+    "release": "1994-10-14",
+    "director": "Frank Darabont",
+    "production": "Castle Rock Entertainment",
+    "cast": "Morgan Freeman, Tim Robbins, Bob Gunton",
+    "data": {
+      "desc": "Bank Merchant Andy Dufresne is convicted of the murder of his wife and her lover, and sentenced to life imprisonment at Shawshank prison. Life seems to have taken a turn for the worse, but fortunately Andy befriends some of the other inmates, in particular a character known only as Red. Over time Andy finds ways to live out life with relative ease as one can in a prison, leaving a message for all that while the body may be locked away in a cell, the spirit can never be truly imprisoned. ",
+      "url": "https://www.youtube.com/watch?v=6hB3S9bIaco"
+    }
+  },
+  {
+    "name": "AMERICAN HISTORY X",
+    "image": "/images/american-x.jpg",
+    "id": 2,
+    "slug": "posts/history",
+    "country": "United States",
+    "genre": "Drama, Crime",
+    "release": "1998-11-20",
+    "director": "Tony Kaye",
+    "production": "New Line Cinema, Savoy Pictures, The Turman Morrissey Company",
+    "cast": "Edward Furlong, Beverly DAngelo, Edward Norton",
+    "data": {
+      "desc": "A brutal Neo Nazi skinhead named Derek Vinyard is tried and sent to prison for three years for the murder of two black guys who tried to steal his truck. When he returns from prison reformed, his younger brother Daniel Vinyard who idolizes him is on the brink of becoming a Neo Nazi himself. Derek must save his younger brother from a similar fate.",
+      "url": "https://www.youtube.com/watch?v=XfQYHqsiN5g"
+    }
+  },
+  {
+    "name": "BOHEMIAN RHAPSODY",
+    "image": "/images/bohemian-rhapsody.jpg",
+    "id": 3,
+    "slug": "posts/bohemian",
+    "country": "United States, United Kingdom",
+    "genre": "Drama, Music, Biography",
+    "release": "2018-10-23",
+    "director": "Bryan Singer",
+    "production": "GK Films, Twentieth Century Fox",
+    "cast": "Joseph Mazzello, Mike Myers, Tom Hollander, Aidan Gillen, Rami Malek",
+    "data": {
+      "desc": "Bohemian Rhapsody is a movie based on the true story of Queen's journey from the start of the rock band to their now-legendary 1985 performance at the Live Aid concert in Wembley Stadium. The story chronicles lead singer Freddie Mercury's tempestuous journey from an outcast immigrant struggling to find his place in a rejecting society to his becoming a beloved and world-famous artist.",
+      "url": "https://www.youtube.com/watch?v=mP0VHJYFOAU"
+    }
+  },
+  {
+    "name": "12 ANGRY MEN",
+    "image": "/images/angryman.jpg",
+    "id": 4,
+    "slug": "posts/angry",
+    "country": "United States",
+    "genre": "Drama, Crime",
+    "release": "1997-08-17",
+    "director": "William Friedkin",
+    "production": "MGM Television",
+    "cast": "Jack Lemmon, James Gandolfini, Edward James Olmos, Mary McDonnell",
+    "data": {
+      "desc": "The verdict of a seemingly open and shut case lies in the hands of twelve Jury members, the verdict is obvious, guilty. But to one, there's more than meets the eye. What else might be hiding in the details of the case? Will an innocent man be put to death? Or will a guilty man be spared?",
+      "url": "https://www.youtube.com/watch?v=_13J_9B5jEk"
+    }
+  },
+  {
+    "name": "BACK THE FUTURE",
+    "image": "/images/backthefuture.jpg",
+    "id": 5,
+    "slug": "posts/backthefuture",
+    "country": "United States",
+    "genre": "Comedy, Sci-Fi, Adventure",
+    "release": "1985-07-03",
+    "director": "Robert Zemeckis",
+    "production": "Universal Pictures, Amblin Entertainment",
+    "cast": "Christopher Lloyd, Michael J Fox, Crispin Glover, Lea Thompson",
+    "data": {
+      "desc": "Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean 'time machine' invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future.",
+      "url": "https://www.youtube.com/watch?v=qvsgGtivCgs"
+    }
+  },
+  {
+    "name": "DJANGO",
+    "image": "/images/django.jpg",
+    "id": 6,
+    "slug": "posts/django",
+    "country": "United States",
+    "genre": "Western",
+    "release": "2012-12-25",
+    "director": "Quentin Tarantino",
+    "production": "Columbia Pictures, The Weinstein Company",
+    "cast": "Jamie Foxx, Christoph Waltz, Leonardo Dicaprio",
+    "data": {
+      "desc": "In the late 1850's, former dentist turned bounty-hunter Dr. King Schultz buys the freedom of a man named Django from a slave trader duo in a quest to find and kill some men he wants dead. Afterwards, Django sets out with help from Schultz to find and rescue his wife Broomhilda who like him was sold into slavery by an anonymous owner. Their journey takes them to a plantation called Candieland, owned by a ruthless tycoon. Also, they come to some suspicions of the head slave named Stephen.",
+      "url": "https://www.youtube.com/watch?v=0fUCuvNlOCg"
+    }
+  },
+  {
+    "name": "FIGHT CLUB",
+    "image": "/images/fight-club.jpg",
+    "id": 7,
+    "slug": "posts/fight-club",
+    "country": "United States, Germany",
+    "genre": "Drama",
+    "release": "1999-10-15",
+    "director": "David Fincher",
+    "production": "Fox 2000 Pictures, Linson Films",
+    "cast": "Brad Pitt, Edward Norton",
+    "data": {
+      "desc": "Sick of his dead-end corporate career and disgusted with the empty consumer culture, a young man (Norton) and his devious friend (Pitt) create a new club where young men come to relieve their frustrations by beating each other to a pulp. A box office flop upon its initial theatrical release, the film quickly found a following on home video and became one of the key zeitgeist-defining films of '90s.",
+      "url": "https://www.youtube.com/watch?v=BdJKm16Co6M"
+    }
+  },
+  {
+    "name": "FORREST GUMP",
+    "image": "/images/forrest-gump.jpg",
+    "id": 8,
+    "slug": "posts/gump",
+    "country": "United States",
+    "genre": "Drama, Romance",
+    "release": "1994-07-06",
+    "director": "Robert Zemeckis",
+    "production": "Paramount Pictures, The Steve Tisch Company",
+    "cast": "Robin Wright, Tom Hanks, Gary Sinise",
+    "data": {
+      "desc": "Slow-witted Forrest Gump has never thought of himself as disadvantaged, and thanks to his supportive mother, he leads anything but a restricted life. Whether dominating on the gridiron as a college football star, fighting in Vietnam or captaining a shrimp boat, Forrest inspires people with his childlike optimism. But one person Forrest cares about most may be the most difficult to save -- his childhood love, the sweet but troubled Jenny.",
+      "url": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+    }
+  },
+  {
+    "name": "GODFATHER",
+    "image": "/images/godfather.jpg",
+    "id": 9,
+    "slug": "posts/godfather",
+    "country": "United States",
+    "genre": "Drama, Crime",
+    "release": "1972-03-24",
+    "director": "Francis Ford Coppola",
+    "production": "Paramount Pictures",
+    "cast": "Al Pacino, Marlon Brando, James Caan",
+    "data": {
+      "desc": "Michael, the young and idealistic son of Vito Corleone, the head of the most powerful Mafia clan in New York, returns home as a war hero and is determined to live his own life. But tragic circumstances make him face the legacy of his family.",
+      "url": "https://www.youtube.com/watch?v=sY1S34973zA"
+    }
+  },
+  {
+    "name": "GREEN MILE",
+    "image": "/images/greenmile.jpg",
+    "id": 10,
+    "slug": "posts/greenmile",
+    "country": "United States",
+    "genre": "Drama, Crime, Fantasy, Mystery",
+    "release": "1999-12-10",
+    "director": "Frank Darabont",
+    "production": "Warner Bros, Castle Rock Entertainment",
+    "cast": "Michael Clarke Duncan, Tom Hanks, David Morse",
+    "data": {
+      "desc": "It's just another normal day on the Green Mile for prison guard Paul Edgecomb. That is until huge John Coffey is sent there. Unlike the hulking brute that Coffey looks like, he is in fact kind at heart. Whilst watching over Coffey, Edgecomb learns that there is more to Coffey than can be seen.",
+      "url": "https://www.youtube.com/watch?v=Ki4haFrqSrw"
+    }
+  },
+  {
+    "name": "3 IDIOTS",
+    "image": "/images/idiots.jpg",
+    "id": 11,
+    "slug": "posts/idiots",
+    "country": "India",
+    "genre": "Drama, Comedy",
+    "release": "2009-12-24",
+    "director": "Rajkumar Hirani",
+    "production": "Rajkumar Hirani Film",
+    "cast": "Madhavan, Aamir Khan, Mona Singh",
+    "data": {
+      "desc": "3 Idiots is a Bollywood production that flashes back and forth between present day, and the characters' time in college. It starts off with old friends, Qureshi and Raju Rastogi learning that their college pal, Rancho, had finally been found. The movie follows their travels to find their long lost friend, while flashing back to the events of their school years, where they often got into amusing shenanigans involving the Dean of Delhi's Imperial College of Engineering, Viru Sahastrabudhe, and dealt with some serious events that many people encounter in every day life.",
+      "url": "https://www.youtube.com/watch?v=tE_7Oz-iH80"
+    }
+  },
+  {
+    "name": "INCEPTION",
+    "image": "/images/inception.jpg",
+    "id": 12,
+    "slug": "posts/inception",
+    "country": "United States, United Kingdom",
+    "genre": "Romance, Action, Mystery",
+    "release": "2010-07-16",
+    "director": "Christopher Nolan",
+    "production": "Warner Bros, Legendary Entertainment, Syncopy",
+    "cast": "Ellen Page, Joseph Gordon Levitt, Leonardo Dicapri",
+    "data": {
+      "desc": "Dominic Cobb is an spy who instead of breaking into a person's home, office, or even computer, gets the information he needs by getting into the person's mind through their dreams. Cobb is also a fugitive who misses his children. Someone approaches Cobb and wants to hire him but instead of getting information out, the man wants Cobb to implant something, a process called 'inception', which is not easy to do. Cobb is hesitant to do it, but when the man offers to help Cobb go back to his children, Cobb agrees. So he assembles his team but when they begin, there are things Cobb didn't tell his team that could jeopardize the job, and when they occur, they're not sure if they should continue.",
+      "url": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+    }
+  },
+  {
+    "name": "INTERSTELLAR",
+    "image": "/images/interstellar.jpg",
+    "id": 13,
+    "slug": "posts/interstellar",
+    "country": "United States, United Kingdom, Canada",
+    "genre": "Drama, Sci-Fi, Adventure",
+    "release": "2014-11-07",
+    "director": "Christopher Nolan",
+    "production": "Warner Bros, Paramount Pictures, Legendary Entertainment",
+    "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+    "data": {
+      "desc": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+      "url": "https://www.youtube.com/watch?v=zSWdZVtXT7E"
+    }
+  },
+  {
+    "name": "JOKER",
+    "image": "/images/joker.jpg",
+    "id": 14,
+    "slug": "posts/joker",
+    "country": "United States, Canada",
+    "genre": "Drama, Thriller, Crime",
+    "release": "2019-08-31",
+    "director": "Todd Phillips",
+    "production": "Village Roadshow Pictures, Warner Bros",
+    "cast": "Frances Conroy, Robert De Niro, Joaquin Phoenix, Shea Whigham, Marc Maron",
+    "data": {
+      "desc": "Arthur Fleck works as a clown and is an aspiring stand-up comic. He has mental health issues, part of which involves uncontrollable laughter. Times are tough and, due to his issues and occupation, Arthur has an even worse time than most. Over time these issues bear down on him, shaping his actions, making him ultimately take on the persona he is more known as...Joker.",
+      "url": "https://www.youtube.com/watch?v=t433PEQGErc"
+    }
+  },
+  {
+    "name": "LEON",
+    "image": "/images/leon.jpg",
+    "id": 15,
+    "slug": "posts/leon",
+    "country": "United States, France",
+    "genre": "Drama, Thriller, Crime",
+    "release": "994-09-14",
+    "director": "Luc Besson",
+    "production": "Gaumont, Columbia Pictures, Les Films du Dauphin",
+    "cast": "Gary Oldman, Jean Reno, Natalie Portman, Maïwenn, Ellen Greene, Danny Aiello",
+    "data": {
+      "desc": "After her father, step-mother, step-sister and little brother are killed by her father's employers, the 12-year-old daughter of an abject drug dealer manages to take refuge in the apartment of a professional hitman who at her request teaches her the methods of his job so she can take her revenge on the corrupt DEA agent who ruined her life by killing her beloved brother.",
+      "url": "https://www.youtube.com/watch?v=jawVxq1Iyl0"
+    }
+  },
+  {
+    "name": "LORD OF WAR",
+    "image": "/images/lord-of-war.jpg",
+    "id": 16,
+    "slug": "posts/lord-of-war",
+    "country": "United States, France, Germany",
+    "genre": "Drama, Thriller, Crime",
+    "release": "2005-09-16",
+    "director": "Andrew Niccol",
+    "production": "Ascendant Pictures, VIP 3 Medienfonds, Entertainment Manufacturing Company",
+    "cast": "Ethan Hawke, Nicolas Cage, Jared Leto",
+    "data": {
+      "desc": "This movie charts the rise and fall of Yuri Orlov, from his early days in the early 1980s in Little Odessa, selling guns to mobsters in his local neighborhood, through to his ascension through the decade of excess and indulgence into the early 1990s, where he forms a business partnership with an African warlord and his psychotic son. This movie also charts his relationship through the years with his younger brother, his marriage to a famous model, his relentless pursuit by a determined INTERPOL Agent and his inner demons that sway between his drive for success and the immorality of what he does.",
+      "url": "https://www.youtube.com/watch?v=AXgyoER0aRc"
+    }
+  },
+  {
+    "name": "LUCY",
+    "image": "/images/lucy.jpg",
+    "id": 17,
+    "slug": "posts/lucy",
+    "country": "United States, United Kingdom, France, Canada, Germany",
+    "genre": "Thriller, Sci-Fi, Action",
+    "release": "2014-07-25",
+    "director": "Luc Besson",
+    "production": "EuropaCorp",
+    "cast": "Morgan Freeman, Pilou Asbæk, Scarlett Johansson, Min Sik Choi, Analeigh Tipton",
+    "data": {
+      "desc": "It was supposed to be a simple job. All Lucy had to do was deliver a mysterious briefcase to Mr. Jang. But immediately Lucy is caught up in a nightmarish deal where she is captured and turned into a drug mule for a new and powerful synthetic drug. When the bag she is carrying inside of her stomach leaks, Lucy's body undergoes unimaginable changes that begins to unlock her mind's full potential. With her new-found powers, Lucy turns into a merciless warrior intent on getting back at her captors. She receives invaluable help from Professor Norman, the leading authority on the human mind, and French police captain Pierre Del Rio.",
+      "url": "https://www.youtube.com/watch?v=MVt32qoyhi0"
+    }
+  },
+  {
+    "name": "MATRIX",
+    "image": "/images/matrix.jpg",
+    "id": 18,
+    "slug": "posts/matrix",
+    "country": "United States, Australia",
+    "genre": "Sci-Fi, Action",
+    "release": "1999-03-31",
+    "director": "Andy Wachowski,Lana Wachowski",
+    "production": "Village Roadshow Pictures, Warner Bros, Groucho Film Partnership",
+    "cast": "Laurence Fishburne, Keanu Reeves, Carrie Anne Moss",
+    "data": {
+      "desc": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. As a rebel against the machines, Neo must confront the agents: super-powerful computer programs devoted to stopping Neo and the entire human rebellion.",
+      "url": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+    }
+  },
+  {
+    "name": "THE DARK NIGHT",
+    "image": "/images/night.jpg",
+    "id": 19,
+    "slug": "posts/night",
+    "country": "United States, United Kingdom",
+    "genre": "Drama, Action, Crime",
+    "release": "2008-07-18",
+    "director": "Christopher Nolan",
+    "production": "Warner Bros, Legendary Entertainment, Syncopy",
+    "cast": "Aaron Eckhart, Christian Bale, Heath Ledger",
+    "data": {
+      "desc": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as 'The Joker' appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to 'confront everything he believes' and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes.",
+      "url": "https://www.youtube.com/watch?v=GokKUqLcvD8"
+    }
+  },
+  {
+    "name": "PARASITE",
+    "image": "/images/parasite.jpg",
+    "id": 20,
+    "slug": "posts/parasite",
+    "country": "South Korea",
+    "genre": "Drama, Thriller, Comedy",
+    "release": "2019-05-21",
+    "director": "Bong Joon Ho",
+    "production": "CJ Entertainment, Barunson EA",
+    "cast": "Yeo Jeong Jo, Kang Ho Song, So dam Park, Woo sik Choi, Sun kyun Lee, Hyun jun Jung",
+    "data": {
+      "desc": "Jobless, penniless, and, above all, hopeless, the unmotivated patriarch, Ki-taek, and his equally unambitious family--his supportive wife, Chung-sook; his cynical twentysomething daughter, Ki-jung, and his college-age son, Ki-woo--occupy themselves by working for peanuts in their squalid basement-level apartment. Then, by sheer luck, a lucrative business proposition will pave the way for an ingeniously insidious scheme, as Ki-woo summons up the courage to pose as an English tutor for the teenage daughter of the affluent Park family. Now, the stage seems set for an unceasing winner-take-all class war. How does one get rid of a parasite?",
+      "url": "https://www.youtube.com/watch?v=isOGD_7hNIY"
+    }
+  },
+  {
+    "name": "LIFE OF PI",
+    "image": "/images/pi.jpg",
+    "id": 21,
+    "slug": "posts/pi",
+    "country": "United States, United Kingdom, Australia, Canada",
+    "genre": "Drama, Adventure, Fantasy",
+    "release": "2012-11-21",
+    "director": "Ang Lee",
+    "production": "Ingenious Media, Fox 2000 Pictures, Dune Entertainment",
+    "cast": "Adil Hussain, Irrfan Khan, Suraj Sharma",
+    "data": {
+      "desc": "An aspiring Canadian author interviews the Indian storyteller Pi Patel to hear the firsthand account of his adventures. Pi recounts his upbringing in French-occupied India, where his father owned a zoo. When Pi's family business fails, they embark on a sea voyage to Canada to begin a new life. One night aboard their Japanese cargo ship in the middle of the ocean, a violent and deadly storm hits and sinks nearly all that Pi holds dear. He survives in a lifeboat with several of their zoo animals, including a fearsome Bengal tiger. In a struggle to survive, Pi and the tiger forge an unexpected connection that gives him daily motivation to live. Life of Pi is a tale of faith, hope, and the fight to survive.",
+      "url": "https://www.youtube.com/watch?v=3mMN693-F3U"
+    }
+  },
+  {
+    "name": "THE PIANIST",
+    "image": "/images/pianist.jpg",
+    "id": 22,
+    "slug": "posts/pianist",
+    "country": "United Kingdom, France, Poland, Germany",
+    "genre": "Drama, War, Music, Biography",
+    "release": "2002-05-24",
+    "director": "Roman Polanski",
+    "production": "Studio Babelsberg, Heritage Films",
+    "cast": "Adrien Brody, Ed Stoppard, Emilia Fox, Frank Finlay, Maureen Lipman, Richard Ridings",
+    "data": {
+      "desc": "A Jewish pianist named Wladislaw Szpilman was playing the piano on the radio station when an explosion occurred outside. It was the beginning of German Nazi occupation in Polland. When he returned home, his family was arguing over how they could keep the rest of their money so the German's couldn't see it. When they looked out the window, they saw their area was fenced. Since then, their life has become in a difficult situation. The German's deported his family and forcibly took on train way to concentration camp. Szpilman was left behind in the Warsaw Ghetto and struggled alone for survival.",
+      "url": "https://www.youtube.com/watch?v=BFwGqLa_oAo"
+    }
+  },
+  {
+    "name": "SCHINDLER'S LIST",
+    "image": "/images/schindlerlist.jpg",
+    "id": 23,
+    "slug": "posts/schindlerlist",
+    "country": "United States",
+    "genre": "Drama, History, Biography",
+    "release": "1994-02-04",
+    "director": "Steven Spielberg",
+    "production": "Universal Pictures, Amblin Entertainment",
+    "cast": "Ralph Fiennes, Liam Neeson, Ben Kingsley",
+    "data": {
+      "desc": "The incredible true story of the enigmatic and opportunistic businessman Oskar Schindler, who saved the lives of more than 1,100 Jews during the Holocaust. Schindler's List chronicles the trials and triumph of one man who made a difference and the tribulations of those who survived one of the darkest chapters in human history because of his actions.",
+      "url": "https://www.youtube.com/watch?v=gG22XNhtnoY"
+    }
+  },
+  {
+    "name": "SE7EN",
+    "image": "/images/seven.jpg",
+    "id": 24,
+    "slug": "posts/seven",
+    "country": "United States",
+    "genre": "Drama, Thriller, Mystery",
+    "release": "1995-09-22",
+    "director": "David Fincher",
+    "production": "New Line Cinema, Juno Pix, Cecchi Gori Pictures",
+    "cast": "Morgan Freeman, Kevin Spacey, Brad Pitt",
+    "data": {
+      "desc": "Two police detectives - one, Somerset, about to retire and the other, Mills, just transferred into the precinct - investigate the murder of an obese man. On his wall was written the word 'Gluttony'. Then they are alerted to the murder of a lawyer. On his floor was written the word 'Greed'. Somerset suspects that the murders were the work of the same man, a man murdering people who have committed the seven deadly sins.",
+      "url": "https://www.youtube.com/watch?v=znmZoVkCjpI"
+    }
+  },
+  {
+    "name": "STAR WARS",
+    "image": "/images/star-wars.jpg",
+    "id": 25,
+    "slug": "posts/star-wars",
+    "country": "United States",
+    "genre": "Sci-Fi, Adventure, Action, Fantasy",
+    "release": "1999-05-19",
+    "director": "George Lucas",
+    "production": "Lucasfilm",
+    "cast": "Ewan McGregor, Natalie Portman, Liam Neeson",
+    "data": {
+      "desc": "The Imperial Forces, under orders from cruel Darth Vader, hold Princess Leia hostage in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker and Han Solo, captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 and C-3PO to rescue the beautiful princess, help the Rebel Alliance and restore freedom and justice to the Galaxy.",
+      "url": "https://www.youtube.com/watch?v=bD7bpG-zDJQ"
+    }
+  }
+]
