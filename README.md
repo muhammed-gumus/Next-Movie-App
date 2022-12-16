@@ -1,4 +1,5 @@
-# Silver Movie
+# Silver Movie <img src="https://github.com/muhammed-gumus/next.js-movie-app/blob/main/public/images/video-player.jpg?raw=true"  width="60px" height="60px">
+
 
 An App where you can access all kinds of information about a movie.
 
