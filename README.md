@@ -1,6 +1,6 @@
-# Project Title
+# Silver Movie
 
-One Paragraph of project description goes here
+An App where you can access all kinds of information about a movie.
 
 ## Getting Started
 
