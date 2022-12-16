@@ -4,15 +4,16 @@ An App where you can access all kinds of information about a movie.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to **deploy**(Bold Example) the project on a live system.
+Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://nextjs.org/learn</a> to get started with Next.js.
 
-### Prerequisites
+Create a Next.js app
+To create a Next.js app, open your terminal, cd into the directory you’d like to create the app in, and run the following command:
 
-What things you need to install the software and how to install them
+npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
 
-```
-Give examples
-```
+## Documentation
+
+Visit [https://nextjs.org/docs](https://nextjs.org/docs) to view the full documentation.
 
 ### Installing
 
