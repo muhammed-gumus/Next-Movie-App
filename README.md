@@ -9,7 +9,7 @@ Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://next
 Create a Next.js app
 To create a Next.js app, open your terminal, cd into the directory you’d like to create the app in, and run the following command:
 
-npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+`npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"`
 
 ## Documentation
 
